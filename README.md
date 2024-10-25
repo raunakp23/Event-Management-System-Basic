@@ -3,27 +3,19 @@
 
 A comprehensive Event Management System built with HTML, CSS, and JavaScript, designed to handle user registration, login, and event ticketing. This system allows users to register, log in, create, edit, and manage events, and store data locally.
 
-## Features
-
-- **User Registration and Login**: Secure user authentication with registration and login functionality.
-- **Event Creation and Management**: Create, edit, delete, and view events through an intuitive interface.
-- **Ticketing System**: Manage event tickets, including generating and viewing tickets for each event.
-- **Local Storage**: Data is stored locally in the user's browser, ensuring persistence across sessions.
-- **Responsive Design**: The system is designed to be responsive and user-friendly across different devices.
-- **Pop-up Notifications**: Users receive confirmation pop-ups upon successful form submissions.
 
 ## Demo
 
-Check out the live demo [here](https://sweety-vigneshg.github.io/Event-Management-System-Basic/login.html).
+Check out the live demo [here]().
 
 ## Screenshots
 
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(1).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(2).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(3).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(4).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(5).png)
-![Event Management System Screenshot](https://github.com/Sweety-Vigneshg/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(6).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(1).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(2).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(3).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(4).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(5).png)
+![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(6).png)
 
 ## Usage
 
