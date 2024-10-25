@@ -6,7 +6,7 @@ A comprehensive Event Management System built with HTML, CSS, and JavaScript, de
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://raunakp23.github.io/Event-Management-System-Basic/).
 
 ## Screenshots
 
