@@ -1,21 +1,11 @@
 
 # Event Management System
 
-A comprehensive Event Management System built with HTML, CSS, and JavaScript, designed to handle user registration, login, and event ticketing. This system allows users to register, log in, create, edit, and manage events, and store data locally.
-
+A comprehensive Event Management System built with HTML, CSS, and JavaScript, designed to handle user events.
 
 ## Demo
 
 Check out the live demo [here](https://raunakp23.github.io/Event-Management-System-Basic/).
-
-## Screenshots
-
-
-
-![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(3).png)
-![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(4).png)
-![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(5).png)
-![Event Management System Screenshot](https://github.com/raunakp23/Event-Management-System-Basic/blob/main/Screenshot/Screenshot%20(6).png)
 
 ## Usage
 
